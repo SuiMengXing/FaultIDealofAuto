@@ -9,4 +9,4 @@ car=cv2.imread('problem.jpg',cv2.IMREAD_GRAYSCALE)
 cv2.imshow('problem.jpg',car)
 cv2.waitKey(0)
 cv2.destroyAllWindows
-
+##
